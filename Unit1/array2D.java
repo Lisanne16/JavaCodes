@@ -1,7 +1,7 @@
 package Unit1;
 
 import java.util.Scanner;
-
+   
 public class array2D {
     public static void main(String[] args){
          int arr[][]= new int[5][5];
